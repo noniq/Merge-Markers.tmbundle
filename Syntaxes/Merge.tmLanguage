@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array/>
+	<key>injectionSelector</key>
+	<string>L:*</string>
+	<key>name</key>
+	<string>Merge Markers</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>^&lt;&lt;&lt;&lt;&lt;&lt;&lt;.*\n</string>
+			<key>name</key>
+			<string>comment.merge-marker.yours</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>^\|\|\|\|\|\|\|.*\n</string>
+			<key>name</key>
+			<string>comment.merge-marker.original</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>^=======.*\n</string>
+			<key>name</key>
+			<string>comment.merge-marker.theirs</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>^&gt;&gt;&gt;&gt;&gt;&gt;&gt;.*\n</string>
+			<key>name</key>
+			<string>comment.merge-marker.end</string>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>BC25CAB1-69CA-4C47-91D1-A0B0F6E66319</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>fgrsna@qnfpurx.arg</string>
+	<key>contactName</key>
+	<string>Stefan Daschek</string>
+	<key>description</key>
+	<string>Simple injection grammar for highlighting merge markers (“&lt;&lt;&lt;&lt;&lt;&lt;&lt;” etc) across all file types.</string>
+	<key>name</key>
+	<string>Merge Markers</string>
+	<key>uuid</key>
+	<string>F112701D-A5D4-4CB7-91B4-52AFE3E98259</string>
+</dict>
+</plist>
