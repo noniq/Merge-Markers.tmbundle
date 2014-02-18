@@ -5,7 +5,7 @@
 	<key>fileTypes</key>
 	<array/>
 	<key>injectionSelector</key>
-	<string>L:*</string>
+	<string>L:source, text</string>
 	<key>name</key>
 	<string>Merge Markers</string>
 	<key>patterns</key>
