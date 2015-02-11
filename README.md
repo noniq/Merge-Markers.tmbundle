@@ -8,7 +8,7 @@ The bundle is included in TextMate's bundle index, so just go to Preferences →
 
 If you want to install the bundle manually, use the following:
 ```
-cd ~/Library/Application\\ Support/Avian/Bundles
+cd ~/Library/Application\ Support/Avian/Bundles
 git clone https://github.com/noniq/Merge-Markers.tmbundle
 ```
 
