@@ -4,6 +4,9 @@ This bundle defines a simple injection grammar to highlight merge conflict marke
 
 ## Installation
 
+The bundle is included in TextMate's bundle index, so just go to Preferences → Bundles and make sure “Merge Markers” is selected.
+
+If you want to install the bundle manually, use the following:
 ```
 cd ~/Library/Application\\ Support/Avian/Bundles
 git clone https://github.com/noniq/Merge-Markers.tmbundle
